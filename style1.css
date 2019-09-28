@@ -1,0 +1,40 @@
+body{
+  background-color: pink;
+  color: purple;
+}
+p{
+  color: green;
+}
+
+.sutton{
+font-size: 50px;
+}
+
+#Blue{
+color: blue;
+text-decoration: underline;
+}
+
+#firstsample{
+color: green;
+font-weight: bold;
+}
+
+#secondsample{
+color: orange;
+}
+
+#secondsample2{
+  color: red;
+  vertical-align: super;
+}
+
+#thirdsample{
+color: pink;
+}
+
+#thirdsample2{
+  color: yellow;
+  text-transform: uppercase;
+  font-style: italic;
+}
