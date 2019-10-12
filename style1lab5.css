@@ -1,0 +1,41 @@
+.box{
+  margin-top: 10px;
+
+    border-style: solid;
+    border-color: red;
+    border-width: 4px;
+}
+div{
+background-color: red;
+  font-size: 20px;
+  color: white;
+font-weight: bold;
+padding-left: 450px;
+padding-top: 20px;
+}
+p{
+  color: white;
+  font-size: 11px;
+}
+.bigbox{
+background-color: green;
+
+    border-style: solid;
+    border-color: green;
+    border-width: 4px;
+    margin: 0 ;
+    padding-bottom: 475px;
+}
+p1{
+  color:white;
+  font-size: 11px;
+}
+.bluebox{
+  background-color: blue;
+      border-style: solid;
+      border-color: blue;
+      border-width: 1px;
+      padding-bottom: 60px;
+      padding-right: 1050px;
+      margin: 0;
+}
