@@ -1,4 +1,11 @@
 
 p {text-transform: uppercase;}
 p {font-family: arial;}
-img {border: 1px solid black;}
+img {
+  size: 5px;
+  margin-top: 10px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  border-style: dashed;
+}
