@@ -99,8 +99,7 @@ h4{
   text-align: center;
 }
 
-<style type="text/css">
-h1 {
-text-shadow: 2px 2px 5px green;
-}
-</style>
+ .animatetop{
+   text-shadow: 2px 2px 5px green;
+ }
+ 
