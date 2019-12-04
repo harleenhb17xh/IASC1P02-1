@@ -7,6 +7,32 @@
  <meta content="en-us" http-equiv="Content-Language" />
  <title>Saskatchewan</title>
  <link href="stylefinal.css" type="text/css" rel="stylesheet" />
+ <style type="text/css">
+ div {
+   width: 100px;
+   height: 100px;
+   background-color: red;
+   -webkit-animation-name: example;
+   -webkit-animation-duration: 4s;
+   animation-name: example;
+   animation-duration: 4s;
+ }
+
+
+ @-webkit-keyframes example {
+   0%   {background-color: red;}
+   50%  {background-color: yellow;}
+   50%  {background-color: blue;}
+
+ }
+
+ @keyframes example {
+   0%   {background-color: red;}
+   50%  {background-color: yellow;}
+   50%  {background-color: blue;}
+
+ }
+</style>
 </head>
 
         <body>
@@ -75,33 +101,7 @@
                       <div class="text">Red Lily</div>
                     </div>
                   </div>
-                  <style type="text/css">
-    div {
-      width: 50px;
-      height: 50px;
-      background-color: red;
-      -webkit-animation-name: example;
-      -webkit-animation-duration: 4s;
-      animation-name: example;
-      animation-duration: 4s;
-    }
 
-
-    @-webkit-keyframes example {
-      0%   {background-color: red;}
-      25%  {background-color: yellow;}
-      50%  {background-color: blue;}
-      100% {background-color: green;}
-    }
-
-
-    @keyframes example {
-      0%   {background-color: red;}
-      25%  {background-color: yellow;}
-      50%  {background-color: blue;}
-      100% {background-color: green;}
-    }
-    </style>
 
             </div>
 
